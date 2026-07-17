@@ -1,14 +1,15 @@
-title: Kiran's ServiceNow Academy
-description: Daily ServiceNow Study Course
+title: "Kiran's ServiceNow Academy"
+description: "Daily ServiceNow Study Course"
 theme: just-the-docs
 
-url: "https://Kirans-Gits.github.io"
+url: "https://kirans-gits.github.io"
+baseurl: "/mastering-servicenow"
 
 aux_links:
-  GitHub Repository: https://github.com/Kirans-Gits/mastering-servicenow
+  "GitHub Repository":
+    - "https://github.com/Kirans-Gits/mastering-servicenow"
 
 color_scheme: dark
 
 search_enabled: true
-
 heading_anchors: true
